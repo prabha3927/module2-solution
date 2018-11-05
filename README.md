@@ -1,4 +1,4 @@
 # module2-solution
 
 
-sample responsive webpage assignment oursera weeek 2 asignment
+sample responsive webpage assignment, coursera weeek 2 assignment
